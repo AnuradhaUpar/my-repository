@@ -1,0 +1,6 @@
+git init :initalizes the reositories
+git add:
+git commit -m " names.txt file is added successfully"
+git status:checks is there any new file to be commited?
+if we dnt want comment changes done to file then use this commnd
+git restore --staged names.txt
